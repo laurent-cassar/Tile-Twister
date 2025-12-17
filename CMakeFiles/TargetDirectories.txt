@@ -1,0 +1,7 @@
+D:/Projets de groupe/Tile-Twister/CMakeFiles/2048_game.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/test_grid.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/test_game.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/test_movements.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/test.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/edit_cache.dir
+D:/Projets de groupe/Tile-Twister/CMakeFiles/rebuild_cache.dir
