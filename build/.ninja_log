@@ -1,0 +1,11 @@
+# ninja log v7
+68	974	7876673016763931	CMakeFiles/main.dir/src/main.cpp.obj	abefda9cd76ca54c
+854	1036	7876673573907740	main.exe	7ba07cd055357e6
+23	452	7876673016313505	CMakeFiles/main.dir/src/grid.cpp.obj	1ab92e749ee8be3b
+8	853	7876673565444018	CMakeFiles/main.dir/src/gamemanager.cpp.obj	38cb9c8b3e9abb9c
+68	958	7876669053094243	CMakeFiles/main.dir/src/inputmanager.cpp.obj	2814f379f5274abe
+89	1015	7876673016973980	CMakeFiles/main.dir/src/rendermanager.cpp.obj	1e3c025f54350728
+36	981	7877540183958393	CMakeFiles/main.dir/src/main.cpp.obj	abefda9cd76ca54c
+982	1239	7877540193410484	main.exe	7ba07cd055357e6
+9	993	7877540953424028	CMakeFiles/main.dir/src/rendermanager.cpp.obj	1e3c025f54350728
+994	1243	7877540963270448	main.exe	7ba07cd055357e6

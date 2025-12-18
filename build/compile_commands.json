@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/include -isystem C:/msys64/mingw64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\gamemanager.cpp.obj -c C:\\Users\\mitch\\OneDrive\\Desktop\\Cours\\B2\\C++\\testSDL\\src\\gamemanager.cpp",
+  "file": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/src/gamemanager.cpp",
+  "output": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build/CMakeFiles/main.dir/src/gamemanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/include -isystem C:/msys64/mingw64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\grid.cpp.obj -c C:\\Users\\mitch\\OneDrive\\Desktop\\Cours\\B2\\C++\\testSDL\\src\\grid.cpp",
+  "file": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/src/grid.cpp",
+  "output": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build/CMakeFiles/main.dir/src/grid.cpp.obj"
+},
+{
+  "directory": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/include -isystem C:/msys64/mingw64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\inputmanager.cpp.obj -c C:\\Users\\mitch\\OneDrive\\Desktop\\Cours\\B2\\C++\\testSDL\\src\\inputmanager.cpp",
+  "file": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/src/inputmanager.cpp",
+  "output": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build/CMakeFiles/main.dir/src/inputmanager.cpp.obj"
+},
+{
+  "directory": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/include -isystem C:/msys64/mingw64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\mitch\\OneDrive\\Desktop\\Cours\\B2\\C++\\testSDL\\src\\main.cpp",
+  "file": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/src/main.cpp",
+  "output": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build/CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/include -isystem C:/msys64/mingw64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\main.dir\\src\\rendermanager.cpp.obj -c C:\\Users\\mitch\\OneDrive\\Desktop\\Cours\\B2\\C++\\testSDL\\src\\rendermanager.cpp",
+  "file": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/src/rendermanager.cpp",
+  "output": "C:/Users/mitch/OneDrive/Desktop/Cours/B2/C++/testSDL/build/CMakeFiles/main.dir/src/rendermanager.cpp.obj"
+}
+]
