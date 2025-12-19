@@ -11,6 +11,11 @@ file(GLOB_RECURSE SOURCES
 
 add_executable(main ${SOURCES})
 
+add_custom_command(TARGET main POST_BUILD
+    COMMAND ${CMAKE_COMMAND} -E copy_directory
+        ${CMAKE_SOURCE_DIR}/asset $<TARGET_FILE_DIR:main>/asset
+)
+
 # SDL2
 find_package(SDL2 REQUIRED)
 
